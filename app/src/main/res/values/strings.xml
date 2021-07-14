@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Kiosk</string>
+    <string name="korea_flag">한국어</string>
+    <string name="usa_flag">영어</string>
+    <string name="store_location">버거킹 용인기흥점</string>
+    <string name="logo">BURGERKING</string>
+</resources>
